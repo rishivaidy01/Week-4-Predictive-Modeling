@@ -1,0 +1,6 @@
+Scenario,Predicted_Delivery_Days,Days_Saved
+Original,10.81,0.0
+Reduced Warehouse Delay,8.83,1.99
+Improved Traffic,8.27,2.54
+Clear Weather,9.38,1.44
+Combined Optimization,4.85,5.96
